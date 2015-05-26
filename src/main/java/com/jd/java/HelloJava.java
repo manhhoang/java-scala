@@ -3,8 +3,8 @@ package com.jd.java;
 import com.jd.scala.HelloWorld;
 
 public class HelloJava {
-  public String getName(){
-    return "Testabc";
+  public String hello(){
+    return "Hello, world!";
   }
   
   public static void main(String[] args) {

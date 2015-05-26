@@ -14,9 +14,8 @@ class HelloWorld {
 
 object Main {
   def main(args: Array[String]) {
-    println("Hello, world!")
     val helloJava = new HelloJava()
-    val name = helloJava.getName()
+    val name = helloJava.hello()
     println(name);
   }
 }
