@@ -1,4 +1,4 @@
-package com.test.scala
+package com.jd.scala
 
 class HelloWorld {
   def addInt( a:Int, b:Int ) : Int = {
@@ -13,8 +13,8 @@ class HelloWorld {
 object Main {
   def main(args: Array[String]) {
     println("Hello, world!")
-    val test = new TestJava();
-    val testString = test.getName()
-    println(testString);
+    val helloJava = new HelloJava()
+    val name = helloJava.getName()
+    println(name);
   }
 }

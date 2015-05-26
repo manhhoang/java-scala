@@ -1,6 +1,6 @@
-package com.test.scala;
+package com.jd.scala;
 
-public class TestJava {
+public class HelloJava {
   public String getName(){
     return "Testabc";
   }
