@@ -1,4 +1,6 @@
-package com.jd.scala;
+package com.jd.java;
+
+import com.jd.scala.HelloWorld;
 
 public class HelloJava {
   public String getName(){

@@ -1,5 +1,7 @@
 package com.jd.scala
 
+import com.jd.java.HelloJava;
+
 class HelloWorld {
   def addInt( a:Int, b:Int ) : Int = {
       var sum:Int = 0
