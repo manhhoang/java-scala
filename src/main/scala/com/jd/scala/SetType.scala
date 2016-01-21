@@ -1,6 +1,6 @@
 package com.jd.scala
 
-object Solution {
+object SetType {
   type Set = Int => Boolean
 
   def contains(s: Set, i: Int): Boolean = s(i)
