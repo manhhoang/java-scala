@@ -1,0 +1,7 @@
+/target/
+
+.cache-main
+*.classpath
+.settings/org.eclipse.jdt.core.prefs
+*.prefs
+.project

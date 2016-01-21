@@ -14,6 +14,7 @@ class Point(xc: Int, yc: Int) extends Equal {
 }
 
 object Test {
+  
   def main(args: Array[String]) {
     val p1 = new Point(2, 3)
     val p2 = new Point(2, 4)
