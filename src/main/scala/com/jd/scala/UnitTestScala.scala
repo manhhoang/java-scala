@@ -1,10 +1,9 @@
 package com.jd.scala
 
+import org.junit.Assert
 import org.junit.Test
 
-import junit.framework.Assert
-
-class Function {
+class UnitTestScala {
 
   def addInt(a: Int, b: Int): Int = {
     var sum: Int = 0
