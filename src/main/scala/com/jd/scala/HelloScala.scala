@@ -16,6 +16,6 @@ object Main {
   def main(args: Array[String]) {
     val helloJava = new HelloJava()
     val name = helloJava.hello()
-    println(name);
+    println(name)
   }
 }
