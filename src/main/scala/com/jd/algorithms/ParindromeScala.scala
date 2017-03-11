@@ -1,7 +1,6 @@
 package com.jd.algorithms
 
-import org.junit.Assert
-import org.junit.Test
+import org.junit.{Assert, Test}
 
 class ParindromeScala {
 

@@ -1,7 +1,6 @@
 package com.jd.scala
 
-import org.junit.Assert
-import org.junit.Test
+import org.junit.{Assert, Test}
 
 class UnitTestScala {
 
@@ -10,10 +9,6 @@ class UnitTestScala {
     sum = a + b
 
     return sum
-  }
-
-  def main(args: Array[String]) {
-    println(addInt(1, 2))
   }
 
   @Test def test1() {

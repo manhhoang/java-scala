@@ -5,3 +5,6 @@
 .settings/org.eclipse.jdt.core.prefs
 *.prefs
 .project
+.idea/
+
+project/target/
