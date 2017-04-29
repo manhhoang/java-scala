@@ -1,6 +1,6 @@
 package com.jd.scala
 
-object ExtractorScala {
+object Extractor {
 
   def main(args: Array[String]) {
 

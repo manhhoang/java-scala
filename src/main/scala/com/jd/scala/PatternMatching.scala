@@ -7,6 +7,7 @@ object PatternMatching {
     println(matchTest1("two"))
     println(matchTest1("test"))
   }
+
   def matchTest(x: Int): String = x match {
     case 1 => "one"
     case 2 => "two"

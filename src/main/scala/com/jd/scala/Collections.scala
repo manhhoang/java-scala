@@ -1,6 +1,6 @@
 package com.jd.scala
 
-object CollectionsScala {
+object Collections {
 
   def main(args: Array[String]) {
     // Define List of integers.

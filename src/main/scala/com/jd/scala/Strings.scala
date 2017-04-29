@@ -1,6 +1,6 @@
 package com.jd.scala
 
-object StringScala {
+object Strings {
 
   def main(args: Array[String]) {
     val palindrome = "Dot saw I was Tod"
